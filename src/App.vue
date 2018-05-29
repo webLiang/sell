@@ -23,7 +23,6 @@
 <script>
 // import myLiang from './components.liang.vue'
 // export default {  
-//       //2.然后,在components中写入子组件  
 //       components: {myLiang}
 //   }
 // export default {
